@@ -32,9 +32,9 @@ author:
   uri              : # URL 
   email            : "akyildiznedim@vt.edu"
   links:
-      label: "akyildiznedim@vt.edu"
-      icon: "fas fa-envelope"
-       url: "mailto:akyildiznedim@vt.edu"
+      label : "akyildiznedim@vt.edu"
+      icon : "fas fa-envelope"
+       url : "mailto:akyildiznedim@vt.edu"
 
   # Academic websites
   academia         : # URL
