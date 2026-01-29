@@ -9,7 +9,7 @@
 
 main:
   - title: "Personal Information"
-    url: https://nedimakyildiz.github.io/personal-information/
+    url: /about/
 
   - title: "Resume"
     url: https://nedimakyildiz.github.io/resume/
