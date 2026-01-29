@@ -12,7 +12,7 @@ main:
     url: /about/
 
   - title: "Resume"
-    url: https://nedimakyildiz.github.io/resume/
+    url: /resume/
 
   # - title: "Nedim Akyildiz's Resume"
   #   url: /cv-json/
