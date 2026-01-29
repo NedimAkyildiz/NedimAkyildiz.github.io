@@ -9,14 +9,14 @@
 
 main:
   - title: "Home"
-    url: /home/
+    url: https://nedimakyildiz.github.io/home/
 
   - title: "Personal Information"
-    url: /personal-information/    
+    url: https://nedimakyildiz.github.io/personal-information/
 
   - title: "Resume"
-    url: /resume/
-    
+    url: https://nedimakyildiz.github.io/resume/
+
   # - title: "Nedim Akyildiz's Resume"
   #   url: /cv-json/
-    
+
