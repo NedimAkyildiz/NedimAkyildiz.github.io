@@ -25,12 +25,16 @@ author:
   # Biographic information/
   avatar           : "profile.png"
   name             : "Nedim Akyildiz"
-  pronouns         : "he/him"  
+  pronouns         : "he/him"
   bio              : "Junior at Virginia Tech studying Computer Engineering"
   location         : "Virginia Beach, Virginia"
   employer         : "Virginia Tech"
-  uri              : # URL
-  email            : "akyildiznedim@vt.edu" 
+  uri              : # URL 
+  email            : "akyildiznedim@vt.edu"
+  links:
+     - label: "Email"
+      icon: "fas fa-envelope"
+       url: "mailto:akyildiznedim@vt.edu"
 
   # Academic websites
   academia         : # URL
