@@ -1,30 +1,3 @@
-  GNU nano 8.7                                   index.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Welcome
 
 I am a Computer Engineering student at Virginia Tech with interests in
