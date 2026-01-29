@@ -8,9 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Home"
-    url: https://nedimakyildiz.github.io/home/
-
   - title: "Personal Information"
     url: https://nedimakyildiz.github.io/personal-information/
 
