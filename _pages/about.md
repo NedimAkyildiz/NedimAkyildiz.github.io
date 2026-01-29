@@ -1,6 +1,6 @@
 ---
 title: "Personal Information"
-permalink: /about/
+permalink: https://nedimakyildiz.github.io/personal-information/
 layout: single
 author_profile: true
 ---
