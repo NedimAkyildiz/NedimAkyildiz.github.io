@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome!
 ---
 I am a Computer Engineering student at Virginia Tech with interests in
 digital logic design, embedded systems, and low-level software development.
